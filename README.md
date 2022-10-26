@@ -1,1 +1,1 @@
-# cog-use-lab.github.io
+# gocognitive-lab.github.io
