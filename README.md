@@ -1,1 +1,1 @@
-# gocognitive-lab.github.io
+# Cognition-and-Usability-Lab.github.io
